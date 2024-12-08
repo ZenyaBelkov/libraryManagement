@@ -1,0 +1,23 @@
+[
+    {
+        "id": 6090,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "status": "Available"
+    },
+    {
+        "id": 9906,
+        "title": "War and peace",
+        "author": "Lev Tolstoy",
+        "year": 1867,
+        "status": "Available"
+    },
+    {
+        "id": 9763,
+        "title": "World War 2",
+        "author": "Winston Cherchil",
+        "year": 1948,
+        "status": "Available"
+    }
+]
